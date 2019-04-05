@@ -2,3 +2,5 @@ config
 config.d/
 known_hosts
 known_hosts.old
+deploy_key
+deploy_key.pub
