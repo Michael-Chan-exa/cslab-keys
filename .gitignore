@@ -1,0 +1,4 @@
+config
+config.d/
+known_hosts
+known_hosts.old
